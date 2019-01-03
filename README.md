@@ -1,4 +1,4 @@
-# Unity Projects
+# UO Felucca themed map for Unity
 
 Community map projects and base terrain scenes for Ultima games. Please contribute PRs!
 
@@ -12,10 +12,8 @@ Please strip any and all Unity packages or assets before uploading projects and 
 
 - Add some documentation / forked Unity scene files for SpacialOS and Atavism back-ends that could be enabled to get Multiplayer started.
 
-[Britannia_Felucca](https://github.com/Save-Britannia/Unity_Projects/tree/master/Britannia_Felucca)
+![](https://raw.githubusercontent.com/Save-Britannia/Unity_Projects/master/Docs/Britannia.png)
 
-![](https://raw.githubusercontent.com/Save-Britannia/Unity_Projects/master/Britannia_Felucca/Britannia.png)
+![](https://raw.githubusercontent.com/Save-Britannia/Unity_Projects/master/Docs/Britannia1.png)
 
-![](https://raw.githubusercontent.com/Save-Britannia/Unity_Projects/master/Britannia_Felucca/Britannia1.png)
-
-![](https://raw.githubusercontent.com/Save-Britannia/Unity_Projects/master/Britannia_Felucca/Britannia2.png)
+![](https://raw.githubusercontent.com/Save-Britannia/Unity_Projects/master/Docs/Britannia2.png)
